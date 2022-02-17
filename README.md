@@ -69,3 +69,16 @@ Con el comando git checkout nos cambiamos de rama.
 
 Mediante un el comando nano editamos el archivo que queremos.
 
+[![imagen-2022-02-17-093155.png](https://i.postimg.cc/fL9M6kr4/imagen-2022-02-17-093155.png)](https://postimg.cc/ZBJkNYmj)
+
+Una vez tengamos acabado el archivo que queremos subir utilizaremos el comando git add “nombre del archivo”
+
+[![imagen-2022-02-17-093404.png](https://i.postimg.cc/JhBwhvcZ/imagen-2022-02-17-093404.png)](https://postimg.cc/4KZ2L80x)
+
+Hacemos un commit
+
+[![imagen-2022-02-17-093634.png](https://i.postimg.cc/ydVTGSdx/imagen-2022-02-17-093634.png)](https://postimg.cc/HJh5cnb1)
+
+Hacemos un git push para subirlo
+
+[![imagen-2022-02-17-093801.png](https://i.postimg.cc/RZ5K8npm/imagen-2022-02-17-093801.png)](https://postimg.cc/3d1k0WHf)
